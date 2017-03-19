@@ -1,2 +1,3 @@
 # zephyr-s-first
-Just starting off
+I started off quite a long time ago.
+This is my learning experience.
